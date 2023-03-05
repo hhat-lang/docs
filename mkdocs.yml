@@ -51,7 +51,7 @@ theme:
   - content.code.annotate  # code annotations
   
   icon:
-    logo: :fontawesome-solid-h:
+    logo: ':fontawesome-solid-h:'
     repo: fontawesome/brands/github
   
 

@@ -51,8 +51,8 @@ theme:
   - content.code.annotate  # code annotations
   
   icon:
-    logo: 'material/library'
-    repo: 'material/library'
+    logo: fontawesome/classic/waveform
+    repo: fontawesome/brands/github
   
 
 extra_css:

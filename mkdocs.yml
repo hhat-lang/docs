@@ -14,7 +14,6 @@ plugins:
   - search:
       separator: '[\s\-\.]' 
   - glightbox
-  - multirepo
   
 theme:
   name: 'material'

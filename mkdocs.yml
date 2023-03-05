@@ -4,9 +4,10 @@ site_author: 'H-Hat Lang'
 site_url: 'https://hhat-lang.github.io/docs/'
 
 copyright: >
-  Copyright &copy; 2022 - 2023 H-Hat Lang –
-  <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2022 - 2023 H-Hat Lang
 docs_dir: docs/
+repo_name: hhat-lang/hhat_lang
+repo_url: https://github.com/hhat-lang/hhat_lang
 nav:
   - Intro: 'index.md'
 
@@ -14,7 +15,7 @@ plugins:
   - search:
       separator: '[\s\-\.]' 
   - glightbox
-  
+
 theme:
   name: 'material'
   
